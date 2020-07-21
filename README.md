@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ - I am Arup paul
+ 
+ - 🌱 I’m currently learning  laravel , Vue js  and more 
+ 
+
 <!--
 **Arup-paul/Arup-paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
