@@ -2,7 +2,7 @@
 
  - I am Arup paul
  
- - 🌱 I’m currently learning  laravel , Vue js  and more 
+ - 🌱 I’m  learning  laravel , Vue js  and more 
  
 
 <!--
@@ -10,6 +10,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ... laravel and Vue js
+- 🌱 I’m  learning ... laravel and Vue js
 
 -->
