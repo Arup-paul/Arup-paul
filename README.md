@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/javascript-CFB430.svg?&style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/html-DD4B25.svg?&style=for-the-badge&logo=html5&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/css-254BDD.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25" width="60"/>
-<img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=css3&logoColor=white" height="25" width="60"/>
+<img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25" width="60"/>
 </p>
 
 
