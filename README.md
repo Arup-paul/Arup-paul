@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <h4>Frameworks I am able with</h4>
 <p align="left">
 <img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/vue-42b983.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/> 
+<img src="https://img.shields.io/badge/vue-42b983.svg?&style=for-the-badge&logo=vue&logoColor=white" height="25"/> 
 </p>
 
 <h4>Tools I have worked with</h4>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/git-EB4D28.svg?&style=for-the-badge&logo=git&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/mysql-006488.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/phpstrom-563d7c.svg?&style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/phpstrom-563d7c.svg?&style=for-the-badge&logo=phpstrom&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
 </p>
 <a href="https://github.com/arup-paul/github-readme-stats">
