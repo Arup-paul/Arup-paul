@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning  Laravel api, Vue Tailwind Css and more  
 
 - 💬 Ask me about Laravel
-
-- 👯 I’m looking to collaborate on any Laravel Open-Source project
+ 
 
 - 🤔 I’m looking for help with new challenges in terms of work
 
