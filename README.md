@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🤔 I’m looking for help with new challenges in terms of work
 
-- 📫 How to reach me: aruppaulctg@gmail.com,  01866702189
+- 📫 How to reach me: aruppaulctg@gmail.com
 <p align="center"> 
 <a href="https://www.facebook.com/arup.paul.9081323" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Arup facebook account" height="30" width="30" /></a>
 <a href="https://github.com/Arup-paul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Arup github account" height="30" width="30" /></a>
