@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Laravel and Javascript
-- 🌱 I’m currently learning  Laravel api, Vue Tailwind Css and more  
+- 🔭 I’m  working on Laravel  Laravel api, Vue and Javascript
+- 🌱 I’m currently learning React ,  Tailwind Css and more  
 
 - 💬 Ask me about Laravel
  
