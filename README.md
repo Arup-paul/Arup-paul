@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m  working on Laravel  Laravel api, Vue and Javascript
+- 🔭 I’m  working on Laravel , Rest Api Development , Vue and Javascript
 - 🌱 I’m currently learning React ,  Tailwind Css and more  
 
 - 💬 Ask me about Laravel
