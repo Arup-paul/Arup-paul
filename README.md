@@ -4,7 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m  working on Laravel , Rest Api Development , Vue and Javascript
+- 🔭 I’m  working on Laravel , Vue and Javascript
+- 🌱 I have strong knowledge about REST Api Development
+- 🌱 I have intermidiate knowledge about Test Driven Development (TDD)
 - 🌱 I’m currently learning React ,  Tailwind Css and more  
 
 - 💬 Ask me about Laravel
