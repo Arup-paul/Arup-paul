@@ -4,10 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m  working on Laravel , Vue and Javascript
+- 🔭 I’m  working on Laravel ,React,Redux and Javascript
+- 🌱 I have basic knowledge about  Vue 
 - 🌱 I have strong knowledge about REST Api Development
-- 🌱 I have intermidiate knowledge about Test Driven Development (TDD)
-- 🌱 I’m currently learning React ,  Tailwind Css and more  
+- 🌱 I have basic knowledge about Test Driven Development (TDD)
+- 🌱 I’m currently learning  Tailwind Css,Styled Component and more  
 
 - 💬 Ask me about Laravel
  
@@ -45,6 +46,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mysql-006488.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/phpstrom-563d7c.svg?&style=for-the-badge&logo=phpstrom&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/github-111111.svg?&style=for-the-badge&logo=github&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/%20firebase-firebase-yellow" height="25" /> 
 </p>
 <a href="https://github.com/arup-paul/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arup-paul&count_private=true&theme=vue" />
