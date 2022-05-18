@@ -35,9 +35,8 @@ Here are some ideas to get you started:
 
 <h4>Frameworks I am able with</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/> 
-<img src="https://img.shields.io/badge/vue-42b983.svg?&style=for-the-badge&logo=vue&logoColor=white" height="25"/> 
- <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25" width="60"/>
+  <img src="https://img.shields.io/badge/Laravel-FF1B2D.svg?&style=for-the-badge&logo=laravel&logoColor=white" height="25"/> 
+  <img src="https://img.shields.io/badge/bootstrap-563d7c.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" height="25" width="60"/>
   <img src="https://img.shields.io/badge/react-000000.svg?&style=for-the-badge&logo=react&logoColor=61dafb" height="25" width="60"/>
 </p>
 
