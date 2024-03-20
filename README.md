@@ -4,11 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m  working on Laravel ,React,Redux,VueJs and Javascript
-- 🌱 I have basic knowledge about  Vue 
-- 🌱 I have strong knowledge about REST Api Development
+- 🔭 I’m  working on Laravel, React, Redux, VueJs and Javascript 
+- 🌱 I have strong knowledge of REST API Development
 - 🌱 I have basic knowledge about Test Driven Development (TDD)
-- 🌱 I’m currently learning  AWS,DOCKER,System Design and more 
+- 🌱 I’m currently learning AWS, DOCKER, System Design, and more 
 
 - 💬 Ask me about Laravel
  
